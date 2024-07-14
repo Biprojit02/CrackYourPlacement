@@ -13,5 +13,5 @@ Arsh's DSA challenge is designed to help improve problem-solving skills and prep
 ## Announcements and Updates
 Follow my journey on:
 
-[LinkedIn]: https://www.linkedin.com/in/biprojit02/
-[Twitter]: https://x.com/biprojit_giri02
+## [LinkedIn]: https://www.linkedin.com/in/biprojit02/
+## [Twitter]: https://x.com/biprojit_giri02
