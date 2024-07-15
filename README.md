@@ -21,6 +21,7 @@ Follow my journey on:
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0287-find-the-duplicate-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
@@ -47,4 +48,8 @@ Follow my journey on:
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0143-reorder-list) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
