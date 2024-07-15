@@ -27,6 +27,7 @@ Follow my journey on:
 | [0075-sort-colors](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -62,6 +63,7 @@ Follow my journey on:
 | ------- |
 | [0056-merge-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0075-sort-colors) |
+| [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
 | ------- |
