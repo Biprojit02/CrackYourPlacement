@@ -9,6 +9,31 @@
  * }
  */
 class Solution {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        ListNode temp = head;
+        for(int i = 1; i<=n; i++){
+            temp = temp.next;
+        }
+
+        if(temp == null){
+            ListNode result = head.next;
+            head.next = null;
+            return result;
+        }
+
+        ListNode prev = head;
+        while(temp != null && temp.next != null){
+            prev = prev.next;
+            temp = temp.next;
+        }
+
+        prev.next = prev.next.next;
+        return head;
+    }
+}
+
+/*
+class Solution {
     public int getLengthOfLL(ListNode head){
         ListNode temp = head;
         int count = 0;
@@ -39,3 +64,4 @@ class Solution {
         return head;
     }
 }
+*/
