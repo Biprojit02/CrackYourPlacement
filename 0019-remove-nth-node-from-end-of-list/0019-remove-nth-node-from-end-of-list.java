@@ -8,6 +8,8 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+// ------ One pass solution ----------
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode temp = head;
@@ -32,6 +34,7 @@ class Solution {
     }
 }
 
+// ----Two pass soluntion--------
 /*
 class Solution {
     public int getLengthOfLL(ListNode head){
