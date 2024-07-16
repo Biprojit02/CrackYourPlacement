@@ -21,6 +21,7 @@ Follow my journey on:
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
@@ -33,6 +34,7 @@ Follow my journey on:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -63,6 +65,7 @@ Follow my journey on:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
