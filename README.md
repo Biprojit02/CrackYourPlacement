@@ -21,6 +21,7 @@ Follow my journey on:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0056-merge-intervals) |
@@ -72,6 +73,7 @@ Follow my journey on:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
