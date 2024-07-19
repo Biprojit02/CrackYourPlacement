@@ -126,6 +126,7 @@ Follow my journey on:
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
@@ -138,4 +139,8 @@ Follow my journey on:
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
