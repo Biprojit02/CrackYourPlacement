@@ -38,6 +38,7 @@ Follow my journey on:
 | [0442-find-all-duplicates-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
@@ -151,6 +152,7 @@ Follow my journey on:
 |  |
 | ------- |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Trie
 |  |
 | ------- |
@@ -159,4 +161,8 @@ Follow my journey on:
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0012-integer-to-roman) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
