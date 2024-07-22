@@ -52,6 +52,7 @@ Follow my journey on:
 | [0018-4sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0143-reorder-list) |
@@ -147,6 +148,7 @@ Follow my journey on:
 | [0012-integer-to-roman](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
@@ -181,4 +183,8 @@ Follow my journey on:
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
