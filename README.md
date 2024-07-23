@@ -27,6 +27,7 @@ Follow my journey on:
 | [0018-4sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0075-sort-colors) |
@@ -135,12 +136,14 @@ Follow my journey on:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0169-majority-element) |
 ## Counting
 |  |
