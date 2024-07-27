@@ -31,6 +31,7 @@ Follow my journey on:
 | [0053-maximum-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0118-pascals-triangle) |
@@ -71,6 +72,7 @@ Follow my journey on:
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -121,6 +123,7 @@ Follow my journey on:
 | ------- |
 | [0048-rotate-image](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 ## Tree
