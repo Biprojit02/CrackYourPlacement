@@ -92,6 +92,7 @@ Follow my journey on:
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
@@ -200,6 +201,7 @@ Follow my journey on:
 | ------- |
 | [0012-integer-to-roman](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0050-powx-n) |
 ## Sliding Window
 |  |
 | ------- |
