@@ -38,6 +38,7 @@ Follow my journey on:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -103,6 +104,7 @@ Follow my journey on:
 | [0075-sort-colors](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
@@ -113,6 +115,7 @@ Follow my journey on:
 | [0012-integer-to-roman](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -160,6 +163,7 @@ Follow my journey on:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 ## Greedy
 |  |
 | ------- |
