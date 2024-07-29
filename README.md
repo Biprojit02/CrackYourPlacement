@@ -150,6 +150,7 @@ Follow my journey on:
 | ------- |
 | [0022-generate-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -208,6 +209,7 @@ Follow my journey on:
 | [0012-integer-to-roman](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0062-unique-paths) |
 ## Sliding Window
 |  |
 | ------- |
@@ -265,4 +267,8 @@ Follow my journey on:
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
