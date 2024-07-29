@@ -46,6 +46,7 @@ Follow my journey on:
 | [0948-sort-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
+| [1511-count-number-of-teams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -153,6 +154,7 @@ Follow my journey on:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -259,4 +261,8 @@ Follow my journey on:
 |  |
 | ------- |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
