@@ -94,6 +94,7 @@ Follow my journey on:
 | [0020-valid-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0143-reorder-list) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Follow my journey on:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Follow my journey on:
 | [0071-simplify-path](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
