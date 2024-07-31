@@ -54,6 +54,7 @@ Follow my journey on:
 | [1741-sort-array-by-increasing-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
+| [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 ## Two Pointers
@@ -112,6 +113,7 @@ Follow my journey on:
 | [0229-majority-element-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0948-sort-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
 |  |
@@ -128,6 +130,7 @@ Follow my journey on:
 | [1207-delete-nodes-and-return-forest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -194,6 +197,7 @@ Follow my journey on:
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Depth-First Search
 |  |
