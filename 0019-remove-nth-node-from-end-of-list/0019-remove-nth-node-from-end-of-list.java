@@ -8,6 +8,31 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+class Solution{
+    public ListNode removeNthFromEnd(ListNode head, int n){
+        ListNode temp = head;
+        for(int i = 0; i<n; i++){
+            temp = temp.next;
+        }
+
+        if(temp == null){
+            ListNode res = head.next;
+            head.next = null;
+            return res;
+        }
+
+        ListNode prev = head;
+        while(temp != null && temp.next != null){
+            prev = prev.next;
+            temp = temp.next;
+        }
+        prev.next = prev.next.next;
+        return head;
+    }
+}
+
+/*
+ // TWO PASS APPROACH
 class Solution {
     public int lengthOfLL(ListNode head){
         ListNode temp = head;
@@ -39,3 +64,4 @@ class Solution {
         return head;
     }
 }
+*/
