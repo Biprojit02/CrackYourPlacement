@@ -95,6 +95,7 @@ Follow my journey on:
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 ## Stack
 |  |
