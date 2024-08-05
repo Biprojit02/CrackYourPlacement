@@ -4,37 +4,34 @@ class Solution {
         Arrays.sort(nums);
         int n = nums.length;
 
-        for(int i = 0; i<nums.length; i++){
+        for(int i = 0; i<n; i++){
             if(i != 0 && nums[i] == nums[i-1]) continue;
             for(int j = i+1; j<n; j++){
                 if(j > i+1 && nums[j] == nums[j-1]) continue;
-                int l = j + 1;
-                int k = n - 1;
-                while(l < k){
-                    List<Integer> list = new ArrayList<>();
+                int k = j+1;
+                int l = n-1;
+                while(k < l){
                     long sum = (long)nums[i] + nums[j];
-                    sum += nums[l];
                     sum += nums[k];
+                    sum += nums[l];
                     if(sum == target){
+                        List<Integer> list = new ArrayList<>();
                         list.add(nums[i]);
                         list.add(nums[j]);
-                        list.add(nums[l]);
                         list.add(nums[k]);
+                        list.add(nums[l]);
                         ans.add(list);
-                        l++;
-                        k--;
-                        while(l < k && nums[l] == nums[l-1]){
-                            l++;
-                        }
-                        while(l < k && nums[k] == nums[k+1]){
-                            k--;
-                        }
+                        k++;
+                        l--;
+
+                        while(k<l && nums[k] == nums[k-1]) k++;
+                        while(k<l && nums[l] == nums[l+1]) l--;
                     }
                     else if(sum > target){
-                        k--;
+                        l--;
                     }
                     else{
-                        l++;
+                        k++;
                     }
                 }
             }
@@ -42,3 +39,4 @@ class Solution {
         return ans;
     }
 }
+
