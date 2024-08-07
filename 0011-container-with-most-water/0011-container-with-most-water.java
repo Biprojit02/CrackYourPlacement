@@ -7,7 +7,7 @@ class Solution {
         while(i < j){
             int w = j - i;
             int h = Math.min(height[i], height[j]);
-            area = Math.max(area, w * h);
+            area = Math.max(area, w*h);
 
             if(height[i] > height[j]){
                 j--;
