@@ -130,6 +130,7 @@ Follow my journey on:
 | [0050-powx-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0273-integer-to-english-words](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 ## Sorting
 |  |
 | ------- |
@@ -239,6 +240,7 @@ Follow my journey on:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0071-simplify-path](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
+| [0273-integer-to-english-words](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -270,6 +272,7 @@ Follow my journey on:
 | [0048-rotate-image](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0062-unique-paths) |
+| [0273-integer-to-english-words](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0445-add-two-numbers-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 ## Sliding Window
 |  |
