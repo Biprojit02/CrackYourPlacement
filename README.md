@@ -270,6 +270,7 @@ Follow my journey on:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0050-powx-n) |
