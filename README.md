@@ -42,6 +42,7 @@ Follow my journey on:
 | [0128-longest-consecutive-sequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
@@ -276,6 +277,7 @@ Follow my journey on:
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
