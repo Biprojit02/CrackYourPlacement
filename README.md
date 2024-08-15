@@ -95,6 +95,7 @@ Follow my journey on:
 | [0234-palindrome-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -227,6 +228,7 @@ Follow my journey on:
 | [0118-pascals-triangle](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
@@ -266,6 +268,7 @@ Follow my journey on:
 | [0071-simplify-path](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0273-integer-to-english-words](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0392-is-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
