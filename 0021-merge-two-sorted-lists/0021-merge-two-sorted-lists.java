@@ -14,7 +14,6 @@ class Solution {
         if(list2 == null) return list1;
 
         ListNode result;
-
         if(list1.val <= list2.val){
             result = list1;
             result.next = mergeTwoLists(list1.next, list2);
