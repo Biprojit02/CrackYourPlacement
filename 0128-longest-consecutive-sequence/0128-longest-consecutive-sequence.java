@@ -16,8 +16,8 @@ class Solution {
                     count++;
                     x++;
                 }
+                longestSeq = Math.max(longestSeq, count);
             }
-            longestSeq = Math.max(count, longestSeq);
         }
         return longestSeq;
     }
