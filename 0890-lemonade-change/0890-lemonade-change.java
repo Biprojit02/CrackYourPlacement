@@ -10,7 +10,7 @@ class Solution {
             else if(bills[i] == 10){
                 if(five > 0){
                     five = five - 1;
-                    ten++;
+                    ten = ten + 1;
                 }
                 else{
                     return false;
