@@ -68,6 +68,7 @@ Follow my journey on:
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -236,6 +237,7 @@ Follow my journey on:
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Divide and Conquer
 |  |
 | ------- |
