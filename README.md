@@ -50,6 +50,7 @@ Follow my journey on:
 | [0268-missing-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0455-assign-cookies) |
@@ -118,6 +119,7 @@ Follow my journey on:
 | [0074-search-a-2d-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -171,6 +173,7 @@ Follow my journey on:
 | [0215-kth-largest-element-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0948-sort-an-array) |
@@ -213,6 +216,7 @@ Follow my journey on:
 | [0054-spiral-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -359,6 +363,7 @@ Follow my journey on:
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
