@@ -56,6 +56,7 @@ Follow my journey on:
 | [0455-assign-cookies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -175,6 +176,7 @@ Follow my journey on:
 | [0268-missing-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
@@ -201,6 +203,7 @@ Follow my journey on:
 | [0442-find-all-duplicates-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -267,6 +270,7 @@ Follow my journey on:
 | ------- |
 | [0169-majority-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
@@ -274,6 +278,7 @@ Follow my journey on:
 | [0011-container-with-most-water](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0890-lemonade-change) |
@@ -364,6 +369,7 @@ Follow my journey on:
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
