@@ -3,13 +3,12 @@ class Solution {
         if(intervals.length <= 1){
             return intervals;
         }
-
         Arrays.sort(intervals, (a, b)->a[0] - b[0]);
-        List<int[]> ans = new ArrayList<>();
-        int newInterval[] = intervals[0]; 
+        ArrayList<int[]> ans = new ArrayList<>();
+        int[] newInterval = intervals[0];
         ans.add(newInterval);
 
-        for(int[] interval : intervals){
+       for(int interval[] : intervals){
             if(interval[0] <= newInterval[1]){
                 newInterval[1] = Math.max(newInterval[1], interval[1]);
             }
@@ -21,3 +20,4 @@ class Solution {
         return ans.toArray(new int[ans.size()][]);
     }
 }
+
