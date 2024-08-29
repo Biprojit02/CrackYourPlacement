@@ -1,6 +1,7 @@
 class Solution {
     public void rotate(int[][] matrix) {
         int n = matrix.length;
+
         for(int i = 0; i<n; i++){
             for(int j = i; j<n; j++){
                 int temp = matrix[i][j];
@@ -14,16 +15,16 @@ class Solution {
         }
     }
 
-    public void reverse(int row[]){
-        int start = 0;
-        int end = row.length - 1;
-        
-        while(start<end){
-            int temp = row[start];
-            row[start] = row[end];
-            row[end] = temp;
-            start++;
-            end--;
+    public void reverse(int[] row){
+        int l = 0;
+        int r = row.length - 1;
+
+        while(l < r){
+            int temp = row[l];
+            row[l] = row[r];
+            row[r] = temp;
+            l++;
+            r--;
         }
     }
 }
