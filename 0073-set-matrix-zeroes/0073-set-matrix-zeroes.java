@@ -9,8 +9,8 @@ class Solution {
                     if(i == 0) firstRow = true;
                     if(j == 0) firstCol = true;
 
-                    matrix[0][j] = 0;
-                    matrix[i][0] = 0;
+                    matrix[0][j] = 0; 
+                    matrix[i][0] = 0; 
                 }
             }
         }
