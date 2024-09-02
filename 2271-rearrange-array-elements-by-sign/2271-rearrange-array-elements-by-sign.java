@@ -1,6 +1,31 @@
 class Solution {
     public int[] rearrangeArray(int[] nums) {
         int n = nums.length;
+        int i = 0;
+        int j = 1;
+        int arr[] = new int[n];
+        int count = 0;
+
+        while(count < n){
+            if(nums[count] >= 0){
+                arr[i] = nums[count];
+                i = i + 2;
+            }
+            else{
+                arr[j] = nums[count];
+                j = j + 2;
+            }
+            count++;
+        }
+        return arr;
+    }
+}
+
+
+/*
+class Solution {
+    public int[] rearrangeArray(int[] nums) {
+        int n = nums.length;
         int arr1[] = new int[n];
         int arr2[] = new int[n];
         int a1 = 0;
@@ -26,3 +51,4 @@ class Solution {
         return nums;
     }
 }
+*/
