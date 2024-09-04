@@ -156,6 +156,7 @@ Follow my journey on:
 | [0234-palindrome-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Recursion
 |  |
@@ -308,6 +309,7 @@ Follow my journey on:
 | [0451-sort-characters-by-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
