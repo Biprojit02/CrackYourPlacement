@@ -119,6 +119,7 @@ Follow my journey on:
 | [0908-middle-of-the-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -153,6 +154,7 @@ Follow my journey on:
 | [0328-odd-even-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
