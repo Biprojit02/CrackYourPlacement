@@ -1,26 +1,26 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
         int productWithoutZero = 1;
-        int countZero = 0;
+        int count = 0;
 
-        for(int i = 0; i<nums.length; i++){
-            if(nums[i] == 0){
+        for(int i : nums){
+            if(i == 0){
                 continue;
             }
             else{
-                productWithoutZero *= nums[i]; 
+                productWithoutZero *= i;
             }
         }
 
         for(int zero : nums){
             if(zero == 0){
-                countZero++;
+                count++;
             }
         }
 
         for(int i = 0; i<nums.length; i++){
             if(nums[i] != 0){
-                if(countZero > 0){
+                if(count > 0){
                     nums[i] = 0;
                 }
                 else{
@@ -28,7 +28,7 @@ class Solution {
                 }
             }
             else{
-                if(countZero > 1){
+                if(count > 1){
                     nums[i] = 0;
                 }
                 else{
