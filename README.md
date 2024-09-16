@@ -32,6 +32,7 @@ Follow my journey on:
 | [0039-combination-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0056-merge-intervals) |
@@ -186,6 +187,7 @@ Follow my journey on:
 | [0015-3sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
@@ -216,6 +218,7 @@ Follow my journey on:
 | [0001-two-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
@@ -324,6 +327,7 @@ Follow my journey on:
 | [0020-valid-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0151-reverse-words-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0242-valid-anagram) |
