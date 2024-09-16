@@ -3,6 +3,7 @@ class Solution {
         HashSet<Integer> set = new HashSet<>();
         int count = 0;
         int longestSeq = 0;
+
         for(int x : nums){
             set.add(x);
         }
@@ -12,8 +13,8 @@ class Solution {
                 int x = num;
                 count = 1;
                 while(set.contains(x+1)){
-                    count++;
                     x++;
+                    count++;
                 }
                 longestSeq = Math.max(longestSeq, count);
             }
