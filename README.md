@@ -106,6 +106,7 @@ Follow my journey on:
 | [0075-sort-colors](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0143-reorder-list) |
@@ -329,6 +330,7 @@ Follow my journey on:
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0071-simplify-path) |
+| [0125-valid-palindrome](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
