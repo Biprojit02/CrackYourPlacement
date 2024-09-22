@@ -56,6 +56,7 @@ Follow my journey on:
 | [0283-move-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0455-assign-cookies) |
@@ -202,6 +203,7 @@ Follow my journey on:
 | [0242-valid-anagram](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
@@ -286,6 +288,7 @@ Follow my journey on:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [1196-filling-bookcase-shelves](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
@@ -314,6 +317,7 @@ Follow my journey on:
 | ------- |
 | [0011-container-with-most-water](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
