@@ -7,6 +7,7 @@ class Solution {
                 result.add(newInterval);
                 newInterval = slot;
             }
+
             else if(slot[1] < newInterval[0]){
                 result.add(slot);
             }
