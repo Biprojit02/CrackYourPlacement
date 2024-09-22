@@ -3,21 +3,20 @@ class Solution {
         if(intervals.length <= 1){
             return intervals;
         }
-        Arrays.sort(intervals, (a, b)->a[0] - b[0]);
-        ArrayList<int[]> ans = new ArrayList<>();
+        Arrays.sort(intervals, (a, b) -> a[0] - b[0]);
         int[] newInterval = intervals[0];
-        ans.add(newInterval);
+        ArrayList<int[]> list = new ArrayList<>();
+        list.add(newInterval);
 
-       for(int interval[] : intervals){
+        for(int[] interval : intervals){
             if(interval[0] <= newInterval[1]){
                 newInterval[1] = Math.max(newInterval[1], interval[1]);
             }
             else{
                 newInterval = interval;
-                ans.add(newInterval);
+                list.add(newInterval);
             }
         }
-        return ans.toArray(new int[ans.size()][]);
+        return list.toArray(new int[list.size()][]);
     }
 }
-
