@@ -123,6 +123,7 @@ Follow my journey on:
 | [0287-find-the-duplicate-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
@@ -244,6 +245,7 @@ Follow my journey on:
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -352,6 +354,7 @@ Follow my journey on:
 | [0273-integer-to-english-words](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0392-is-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -399,6 +402,7 @@ Follow my journey on:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
