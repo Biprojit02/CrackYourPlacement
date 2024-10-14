@@ -32,6 +32,7 @@ Follow my journey on:
 | [0036-valid-sudoku](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0053-maximum-subarray) |
@@ -113,6 +114,7 @@ Follow my journey on:
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -181,6 +183,7 @@ Follow my journey on:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
@@ -303,6 +306,7 @@ Follow my journey on:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0062-unique-paths) |
@@ -545,4 +549,8 @@ Follow my journey on:
 | [0324-wiggle-sort-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
