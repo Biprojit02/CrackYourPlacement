@@ -49,6 +49,7 @@ Follow my journey on:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0179-largest-number) |
@@ -186,6 +187,7 @@ Follow my journey on:
 | [0042-trapping-rain-water](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
@@ -419,6 +421,7 @@ Follow my journey on:
 | [0048-rotate-image](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0445-add-two-numbers-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
