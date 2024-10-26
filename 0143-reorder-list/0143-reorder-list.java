@@ -10,11 +10,14 @@
  */
 class Solution {
     public ListNode reverseLL(ListNode head){
-        if(head == null || head.next == null) return head;
+        if(head == null || head.next == null){
+            return head;
+        }
 
         ListNode last = reverseLL(head.next);
         head.next.next = head;
         head.next = null;
+        
         return last;
     }
     public void reorderList(ListNode head) {
@@ -29,17 +32,15 @@ class Solution {
         ListNode rev = reverseLL(slow);
 
         ListNode curr = head;
-
         while(rev.next != null){
             ListNode temp = curr.next;
 
             curr.next = rev;
             ListNode revTemp = rev.next;
-
+            
             rev.next = temp;
-
             curr = temp;
             rev = revTemp;
-        }
+        } 
     }
 }
