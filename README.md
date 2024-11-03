@@ -92,6 +92,7 @@ Follow my journey on:
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1019-squares-of-a-sorted-array) |
 | [1028-interval-list-intersections](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1028-interval-list-intersections) |
+| [1046-max-consecutive-ones-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1127-last-stone-weight) |
 | [1196-filling-bookcase-shelves](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -171,6 +172,7 @@ Follow my journey on:
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Bit Manipulation
 |  |
@@ -433,6 +435,7 @@ Follow my journey on:
 | [0523-continuous-subarray-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Trie
 |  |
@@ -463,6 +466,7 @@ Follow my journey on:
 | [0567-permutation-in-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
