@@ -78,6 +78,7 @@ Follow my journey on:
 | [0605-can-place-flowers](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0605-can-place-flowers) |
 | [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0739-daily-temperatures](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0739-daily-temperatures) |
@@ -459,6 +460,7 @@ Follow my journey on:
 | [0209-minimum-size-subarray-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
