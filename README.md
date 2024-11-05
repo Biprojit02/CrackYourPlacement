@@ -331,6 +331,7 @@ Follow my journey on:
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -341,6 +342,7 @@ Follow my journey on:
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -448,6 +450,7 @@ Follow my journey on:
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
