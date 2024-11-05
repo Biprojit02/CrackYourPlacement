@@ -218,6 +218,7 @@ Follow my journey on:
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2470-removing-stars-from-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -423,6 +424,7 @@ Follow my journey on:
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2470-removing-stars-from-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -578,6 +580,7 @@ Follow my journey on:
 | [0921-spiral-matrix-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
