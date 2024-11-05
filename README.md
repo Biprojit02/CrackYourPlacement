@@ -443,6 +443,7 @@ Follow my journey on:
 | [2470-removing-stars-from-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Depth-First Search
