@@ -215,6 +215,7 @@ Follow my journey on:
 | [0150-evaluate-reverse-polish-notation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0739-daily-temperatures) |
@@ -232,6 +233,7 @@ Follow my journey on:
 | [0206-reverse-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0394-decode-string) |
 ## Sorting
 |  |
 | ------- |
@@ -419,6 +421,7 @@ Follow my journey on:
 | [0273-integer-to-english-words](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
