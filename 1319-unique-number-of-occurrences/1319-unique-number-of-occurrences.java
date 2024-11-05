@@ -1,13 +1,13 @@
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
-       Map<Integer, Integer> count = new HashMap<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
 
-       for(int a: arr){
-           count.put(a, count.getOrDefault(a, 0)+1);
-       }
+        for(int i : arr){
+            map.put(i, map.getOrDefault(i, 0)+1);
+        }
 
-       HashSet<Integer>set = new HashSet(count.values());
+        HashSet<Integer> set = new HashSet<>(map.values());
 
-        return set.size() == count.size();
+        return set.size() == map.size();
     }
 }
