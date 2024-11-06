@@ -1,8 +1,8 @@
 class Solution:
     def equalPairs(self, grid: List[List[int]]) -> int:
         length = len(grid)
-        map1 = defaultdict(int)
-        map2 = defaultdict(int)
+        map1 = { }
+        map2 = { }
 
         for i in range(length):
             s = []
@@ -10,7 +10,7 @@ class Solution:
                 s.append(str(grid[i][j]))
                 s.append(":")
             str_row = "".join(s)
-            map1[str_row] += 1
+            map1[str_row] = map1.get(str_row, 0) + 1
 
         for i in range(length):
             s = []
@@ -18,7 +18,7 @@ class Solution:
                 s.append(str(grid[j][i]))
                 s.append(":")
             str_col = "".join(s)
-            map2[str_col] += 1
+            map2[str_col] = map2.get(str_col, 0)+1
         
         ans = 0
         for s in map1.keys():
