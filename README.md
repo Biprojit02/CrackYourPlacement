@@ -609,6 +609,7 @@ Follow my journey on:
 | [0155-min-stack](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -617,6 +618,7 @@ Follow my journey on:
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
 ## Geometry
 |  |
 | ------- |
@@ -633,4 +635,8 @@ Follow my journey on:
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
