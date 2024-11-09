@@ -8,7 +8,7 @@ class Solution {
             if(fls[i] == 0){
                 continue;
             }
-            else if(l == -1){
+            else if(f == -1){
                 f = i;
                 l = i;
             }
@@ -24,7 +24,7 @@ class Solution {
             int left = f;
             int right = fls.length - 1 - l;
 
-            max = left/2;
+            max += left/2;
             max += right/2;
             
             int count = 0;
