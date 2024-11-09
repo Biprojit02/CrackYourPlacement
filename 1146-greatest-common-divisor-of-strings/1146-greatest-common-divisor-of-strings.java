@@ -4,17 +4,19 @@ class Solution {
             int a = str1.length();
             int b = str2.length();
             int gcd = gcd(a, b);
+
             return str1.substring(0, gcd);
         }
         else{
             return "";
         }
     }
-    int gcd(int a, int b){
+
+    public int gcd(int a, int b){
         while(b%a != 0){
             int rem = b%a;
             b = a;
-            a = rem; 
+            a = rem;
         }
         return a;
     }
