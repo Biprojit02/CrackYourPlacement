@@ -335,6 +335,7 @@ Follow my journey on:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -348,6 +349,7 @@ Follow my journey on:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -459,6 +461,7 @@ Follow my journey on:
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0098-validate-binary-search-tree) |
+| [0101-symmetric-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -578,6 +581,7 @@ Follow my journey on:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
