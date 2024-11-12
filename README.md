@@ -462,6 +462,7 @@ Follow my journey on:
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3636-check-balanced-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3636-check-balanced-string) |
 ## Depth-First Search
 |  |
 | ------- |
