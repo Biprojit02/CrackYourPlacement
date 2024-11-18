@@ -1,16 +1,20 @@
 class Solution {
     public int pivotIndex(int[] nums) {
         int leftSum = 0;
-        int rightSum = IntStream.of(nums).sum();
+        int rightSum = 0;
+        for(int i = 0; i<nums.length; i++){
+            rightSum += nums[i];
+        }
 
         for(int i = 0; i<nums.length; i++){
-            int currNum = nums[i];
-            rightSum -= currNum;
+            int currSum = nums[i];
+            rightSum -= currSum;
+
             if(rightSum == leftSum){
                 return i;
-            } 
+            }
 
-            leftSum += currNum;
+            leftSum += currSum;
         }
         return -1;
     }
