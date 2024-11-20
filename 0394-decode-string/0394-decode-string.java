@@ -1,7 +1,7 @@
 class Solution {
     public String decodeString(String s) {
         Stack<Integer> numStack = new Stack<>();
-        Stack<String > stringStack = new Stack<>();
+        Stack<String> stringStack = new Stack<>();
         int k = 0;
 
         for(char c : s.toCharArray()){
@@ -23,10 +23,11 @@ class Solution {
             }
 
             StringBuilder temp = new StringBuilder();
-            while(!stringStack.peek().equals("[")){
-                temp.insert(0, stringStack.pop());
+            if(c == ']'){
+                while(!stringStack.peek().equals("[")){
+                    temp.insert(0, stringStack.pop());
+                }
             }
-
             stringStack.pop();
 
             StringBuilder replacement = new StringBuilder();
@@ -37,7 +38,7 @@ class Solution {
 
             stringStack.push(replacement.toString());
         }
-        
+
         StringBuilder result = new StringBuilder();
         while(!stringStack.isEmpty()){
             result.insert(0, stringStack.pop());
