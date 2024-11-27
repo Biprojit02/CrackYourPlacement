@@ -126,6 +126,7 @@ Follow my journey on:
 | [2727-number-of-senior-citizens](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -545,6 +546,7 @@ Follow my journey on:
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -609,6 +611,7 @@ Follow my journey on:
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
