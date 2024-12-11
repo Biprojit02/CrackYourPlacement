@@ -126,6 +126,7 @@ Follow my journey on:
 | [2472-build-a-matrix-with-conditions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -194,6 +195,7 @@ Follow my journey on:
 | [1046-max-consecutive-ones-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -285,6 +287,7 @@ Follow my journey on:
 | [1777-determine-if-two-strings-are-close](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 ## Hash Table
@@ -549,6 +552,7 @@ Follow my journey on:
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Graph
 |  |
 | ------- |
