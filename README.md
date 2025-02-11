@@ -239,6 +239,7 @@ Follow my journey on:
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -479,6 +480,7 @@ Follow my journey on:
 | [1777-determine-if-two-strings-are-close](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
@@ -659,6 +661,7 @@ Follow my journey on:
 | [0735-asteroid-collision](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0921-spiral-matrix-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
