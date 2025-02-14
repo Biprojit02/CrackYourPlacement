@@ -103,6 +103,7 @@ Follow my journey on:
 | [1319-unique-number-of-occurrences](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 | [1511-count-number-of-teams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -518,6 +519,7 @@ Follow my journey on:
 | [0724-find-pivot-index](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1833-find-the-highest-altitude](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
@@ -542,6 +544,7 @@ Follow my journey on:
 | [0523-continuous-subarray-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -675,6 +678,7 @@ Follow my journey on:
 | [0303-range-sum-query-immutable](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -685,6 +689,7 @@ Follow my journey on:
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
+| [1477-product-of-the-last-k-numbers](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
 ## Geometry
 |  |
 | ------- |
