@@ -114,6 +114,7 @@ Follow my journey on:
 | [1741-sort-array-by-increasing-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -586,6 +587,7 @@ Follow my journey on:
 | [0039-combination-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0046-permutations) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
