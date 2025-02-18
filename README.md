@@ -300,6 +300,7 @@ Follow my journey on:
 | [0001-two-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
@@ -456,6 +457,7 @@ Follow my journey on:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0022-generate-parentheses) |
@@ -540,6 +542,7 @@ Follow my journey on:
 | [0002-add-two-numbers](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0062-unique-paths) |
