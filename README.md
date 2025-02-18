@@ -242,6 +242,7 @@ Follow my journey on:
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -448,6 +449,7 @@ Follow my journey on:
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0890-lemonade-change](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -488,6 +490,7 @@ Follow my journey on:
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -592,6 +595,7 @@ Follow my journey on:
 | [0046-permutations](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0046-permutations) |
 | [1160-letter-tile-possibilities](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
