@@ -482,6 +482,7 @@ Follow my journey on:
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -597,6 +598,7 @@ Follow my journey on:
 | [0040-combination-sum-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0046-permutations) |
 | [1160-letter-tile-possibilities](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Heap (Priority Queue)
