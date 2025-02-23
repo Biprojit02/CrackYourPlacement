@@ -90,6 +90,7 @@ Follow my journey on:
 | [0890-lemonade-change](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1014-k-closest-points-to-origin](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
@@ -323,6 +324,7 @@ Follow my journey on:
 | [0560-subarray-sum-equals-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
@@ -370,6 +372,7 @@ Follow my journey on:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -389,6 +392,7 @@ Follow my journey on:
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -424,6 +428,7 @@ Follow my journey on:
 | [0324-wiggle-sort-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0493-reverse-pairs) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
