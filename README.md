@@ -118,6 +118,7 @@ Follow my journey on:
 | [1798-max-number-of-k-sum-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2107-find-unique-binary-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2107-find-unique-binary-string) |
@@ -421,6 +422,7 @@ Follow my journey on:
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Divide and Conquer
 |  |
