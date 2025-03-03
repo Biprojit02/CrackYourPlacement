@@ -126,6 +126,7 @@ Follow my journey on:
 | [2132-convert-1d-array-into-2d-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -186,6 +187,7 @@ Follow my journey on:
 | [1894-merge-strings-alternately](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -717,6 +719,7 @@ Follow my journey on:
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
