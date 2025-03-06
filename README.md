@@ -138,6 +138,7 @@ Follow my journey on:
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3227-find-missing-and-repeated-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -355,6 +356,7 @@ Follow my journey on:
 | [2428-equal-row-and-column-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 | [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
@@ -372,6 +374,7 @@ Follow my journey on:
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
+| [3227-find-missing-and-repeated-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
@@ -592,6 +595,7 @@ Follow my journey on:
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
 | ------- |
