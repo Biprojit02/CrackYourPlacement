@@ -527,6 +527,7 @@ Follow my journey on:
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2470-removing-stars-from-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -612,6 +613,7 @@ Follow my journey on:
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Graph
 |  |
