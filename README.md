@@ -388,6 +388,7 @@ Follow my journey on:
 | [0110-balanced-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -409,6 +410,7 @@ Follow my journey on:
 | [0110-balanced-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -549,6 +551,7 @@ Follow my journey on:
 | [0110-balanced-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0543-diameter-of-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1207-delete-nodes-and-return-forest) |
@@ -696,6 +699,7 @@ Follow my journey on:
 | [0101-symmetric-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
