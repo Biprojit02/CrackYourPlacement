@@ -359,6 +359,7 @@ Follow my journey on:
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -535,6 +536,7 @@ Follow my journey on:
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3636-check-balanced-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3636-check-balanced-string) |
 ## Depth-First Search
 |  |
@@ -617,6 +619,7 @@ Follow my journey on:
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3483-alternating-groups-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Graph
 |  |
 | ------- |
