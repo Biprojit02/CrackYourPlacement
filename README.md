@@ -346,6 +346,7 @@ Follow my journey on:
 | [1319-unique-number-of-occurrences](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1319-unique-number-of-occurrences) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -518,6 +519,7 @@ Follow my journey on:
 | [1146-greatest-common-divisor-of-strings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1170-shortest-common-supersequence) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -614,6 +616,7 @@ Follow my journey on:
 | [0643-maximum-average-subarray-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
