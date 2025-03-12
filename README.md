@@ -88,6 +88,7 @@ Follow my journey on:
 | [0735-asteroid-collision](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0816-design-hashset) |
 | [0890-lemonade-change](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0907-koko-eating-bananas) |
@@ -241,6 +242,7 @@ Follow my journey on:
 | [0237-delete-node-in-a-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
+| [0816-design-hashset](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0816-design-hashset) |
 | [0908-middle-of-the-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -342,6 +344,7 @@ Follow my journey on:
 | [0560-subarray-sum-equals-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0816-design-hashset](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0816-design-hashset) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
@@ -760,6 +763,7 @@ Follow my journey on:
 | [0155-min-stack](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0816-design-hashset](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0816-design-hashset) |
 | [0969-number-of-recent-calls](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1477-product-of-the-last-k-numbers) |
@@ -798,4 +802,8 @@ Follow my journey on:
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2610-closest-prime-numbers-in-range) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
