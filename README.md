@@ -121,6 +121,7 @@ Follow my journey on:
 | [1833-find-the-highest-altitude](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1940-maximum-xor-for-each-query](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
+| [2058-concatenation-of-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2058-concatenation-of-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2107-find-unique-binary-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2107-find-unique-binary-string) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -742,6 +743,7 @@ Follow my journey on:
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0921-spiral-matrix-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2058-concatenation-of-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2265-partition-array-according-to-given-pivot) |
