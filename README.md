@@ -148,6 +148,7 @@ Follow my journey on:
 | [3430-count-days-without-meetings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3643-zero-array-transformation-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3643-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -219,6 +220,7 @@ Follow my journey on:
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3643-zero-array-transformation-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3643-zero-array-transformation-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -590,6 +592,7 @@ Follow my journey on:
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
+| [3643-zero-array-transformation-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3643-zero-array-transformation-ii) |
 ## Trie
 |  |
 | ------- |
