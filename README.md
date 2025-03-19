@@ -272,6 +272,7 @@ Follow my journey on:
 | [0150-evaluate-reverse-polish-notation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
@@ -789,6 +790,7 @@ Follow my journey on:
 | ------- |
 | [0155-min-stack](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0816-design-hashset) |
@@ -827,6 +829,7 @@ Follow my journey on:
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0232-implement-queue-using-stacks) |
 | [0969-number-of-recent-calls](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0969-number-of-recent-calls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Number Theory
