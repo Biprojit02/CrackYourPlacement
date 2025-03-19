@@ -83,6 +83,7 @@ Follow my journey on:
 | [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0724-find-pivot-index](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0724-find-pivot-index) |
@@ -273,6 +274,7 @@ Follow my journey on:
 | [0234-palindrome-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0445-add-two-numbers-ii) |
+| [0682-baseball-game](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
@@ -767,6 +769,7 @@ Follow my journey on:
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0921-spiral-matrix-iii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0921-spiral-matrix-iii) |
