@@ -219,6 +219,7 @@ Follow my journey on:
 | [0209-minimum-size-subarray-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -843,4 +844,8 @@ Follow my journey on:
 | ------- |
 | [0816-design-hashset](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0817-design-hashmap) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
