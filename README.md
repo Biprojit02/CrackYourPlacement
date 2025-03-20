@@ -213,6 +213,7 @@ Follow my journey on:
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -630,6 +631,7 @@ Follow my journey on:
 | [0050-powx-n](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0273-integer-to-english-words) |
