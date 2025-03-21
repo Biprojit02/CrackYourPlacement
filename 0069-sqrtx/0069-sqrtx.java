@@ -4,21 +4,21 @@ class Solution {
             return x;
         }
 
-        int start = 1;
+        int start = 0;
         int end = x;
-        int mid = -1;
         while(start <= end){
-            mid = start + (end - start)/2;
-            if((long)mid * mid == (long)x){
-                return mid;
-            }
-            else if((long)mid * mid > (long)x){
+            int mid = start + (end - start)/2;
+            if((long)mid * mid > (long)x){
                 end = mid - 1;
             }
-            else{
+            else if((long)mid*mid < (long)x){
                 start = mid + 1;
+            }
+            else{
+                return mid;
             }
         }
         return Math.round(end);
     }
 }
+
