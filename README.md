@@ -601,6 +601,7 @@ Follow my journey on:
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2793-count-the-number-of-complete-components) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -678,6 +679,7 @@ Follow my journey on:
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2793-count-the-number-of-complete-components) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
@@ -754,6 +756,7 @@ Follow my journey on:
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Indexed Tree
 |  |
@@ -777,6 +780,7 @@ Follow my journey on:
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [2793-count-the-number-of-complete-components](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2793-count-the-number-of-complete-components) |
 ## Simulation
 |  |
 | ------- |
