@@ -480,6 +480,7 @@ Follow my journey on:
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -675,6 +676,7 @@ Follow my journey on:
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
@@ -685,6 +687,7 @@ Follow my journey on:
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
 ## String Matching
@@ -741,6 +744,7 @@ Follow my journey on:
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Breadth-First Search
