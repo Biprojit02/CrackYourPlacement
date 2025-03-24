@@ -35,8 +35,8 @@ class Solution {
         while(rev.next != null){
             ListNode temp = curr.next;
 
-            curr.next = rev;
             ListNode revTemp = rev.next;
+            curr.next = rev;
             
             rev.next = temp;
             curr = temp;
