@@ -1,22 +1,32 @@
 class Solution {
     public int countDays(int days, int[][] meetings) {
-        Arrays.sort(meetings, (a, b) -> a[0] - b[0]);
+        Arrays.sort(meetings,(a,b) ->a[0] - b[0]);
+
         int count = 0;
-        count += Math.abs(meetings[0][0] - 1);
-        int n = meetings.length;
-        for(int i = 1; i<n; i++){
-            if(meetings[i][0] <= meetings[i - 1][1]){
-                if(meetings[i][1] <= meetings[i - 1][1]){
-                    meetings[i][1] = meetings[i - 1][1];
-                }
+
+        int start = meetings[0][0];
+        int end = meetings[0][1];
+
+        if(start != 1){
+            count += (start-1);
+        }
+
+        for(int i = 1 ; i < meetings.length ; i++){
+            if(end < meetings[i][0]){
+                count += (meetings[i][0] - end - 1);
+                start = meetings[i][0];
+                end = meetings[i][1];
             }
-            else{
-                int day = meetings[i][0] - meetings[i - 1][1];
-                count += day - 1;
+            else {
+                start = Math.min(start,meetings[i][0]);
+                end = Math.max(end,meetings[i][1]);
             }
         }
-        
-        count += Math.abs(meetings[n - 1][1] - days);
+
+        if(end < days){
+            count += days - end;
+        }
+
         return count;
     }
 }
