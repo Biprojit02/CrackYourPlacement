@@ -3,7 +3,6 @@ class Solution {
         int first = 0;
         int mid = 0;
         int last = nums.length - 1;
-
         while(mid <= last){
             if(nums[mid] == 0){
                 int temp = nums[mid];
