@@ -147,6 +147,7 @@ Follow my journey on:
 | [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2551-apply-operations-to-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2690-house-robber-iv) |
@@ -213,6 +214,7 @@ Follow my journey on:
 | [2265-partition-array-according-to-given-pivot](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -343,6 +345,7 @@ Follow my journey on:
 | [1798-max-number-of-k-sum-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -423,6 +426,7 @@ Follow my journey on:
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2428-equal-row-and-column-pairs) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2472-build-a-matrix-with-conditions) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 ## Tree
 |  |
@@ -732,6 +736,7 @@ Follow my journey on:
 | [0948-sort-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1127-last-stone-weight) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Merge Sort
 |  |
 | ------- |
@@ -772,6 +777,7 @@ Follow my journey on:
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Indexed Tree
@@ -796,6 +802,7 @@ Follow my journey on:
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0999-regions-cut-by-slashes](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0999-regions-cut-by-slashes) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2793-count-the-number-of-complete-components) |
 ## Simulation
 |  |
