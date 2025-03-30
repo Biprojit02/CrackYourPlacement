@@ -200,6 +200,7 @@ Follow my journey on:
 | [0567-permutation-in-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0768-partition-labels](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1019-squares-of-a-sorted-array) |
@@ -380,6 +381,7 @@ Follow my journey on:
 | [0560-subarray-sum-equals-k](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0817-design-hashmap) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -537,6 +539,7 @@ Follow my journey on:
 | [0621-task-scheduler](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -567,6 +570,7 @@ Follow my journey on:
 | [0451-sort-characters-by-frequency](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0680-valid-palindrome-ii) |
+| [0768-partition-labels](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1146-greatest-common-divisor-of-strings) |
