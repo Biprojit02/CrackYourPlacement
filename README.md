@@ -150,6 +150,7 @@ Follow my journey on:
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2727-number-of-senior-citizens](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2727-number-of-senior-citizens) |
@@ -347,6 +348,7 @@ Follow my journey on:
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2502-sort-the-people](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2502-sort-the-people) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -543,6 +545,7 @@ Follow my journey on:
 | [0890-lemonade-change](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2681-put-marbles-in-bags](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## String
 |  |
@@ -741,6 +744,7 @@ Follow my journey on:
 | [1014-k-closest-points-to-origin](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1127-last-stone-weight) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/Biprojit02/CrackYourPlacement/tree/master/2681-put-marbles-in-bags) |
 ## Merge Sort
 |  |
 | ------- |
