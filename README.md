@@ -73,6 +73,7 @@ Follow my journey on:
 | [0334-increasing-triplet-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0416-partition-equal-subset-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -495,6 +496,7 @@ Follow my journey on:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0435-non-overlapping-intervals) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Biprojit02/CrackYourPlacement/tree/master/1170-shortest-common-supersequence) |
