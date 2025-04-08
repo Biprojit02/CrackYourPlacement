@@ -168,6 +168,7 @@ Follow my journey on:
 | [3483-alternating-groups-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3643-zero-array-transformation-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
 |  |
@@ -420,6 +421,7 @@ Follow my journey on:
 | [3227-find-missing-and-repeated-values](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Biprojit02/CrackYourPlacement/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Matrix
 |  |
 | ------- |
