@@ -1,43 +1,22 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        mergeSort(nums, 0, nums.length - 1);
-        return nums;
-    }
+        int min = Arrays.stream(nums).min().getAsInt();
+        int max = Arrays.stream(nums).max().getAsInt();
 
-    private void mergeSort(int[] array, int low, int high) {
-        if (low >= high) {
-            return;
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for(int i : nums){
+            map.put(i, map.getOrDefault(i, 0)+1);
         }
-        int mid = low + (high - low) / 2;
-        mergeSort(array, low, mid);
-        mergeSort(array, mid + 1, high);
-        merge(array, low, mid, high);
-    }
 
-    private void merge(int[] array, int low, int mid, int high) {
-        int n1 = mid - low + 1;
-        int n2 = high - mid;
-        int[] leftPart = new int[n1];
-        int[] rightPart = new int[n2];
-
-        System.arraycopy(array, low, leftPart, 0, n1);
-        System.arraycopy(array, mid + 1, rightPart, 0, n2);
-
-        int p1 = 0, p2 = 0, writeInd = low;
-        while (p1 < n1 && p2 < n2) {
-            if (leftPart[p1] <= rightPart[p2]) {
-                array[writeInd++] = leftPart[p1++];
-            } else {
-                array[writeInd++] = rightPart[p2++];
+        int i = 0;
+        for(int num = min; num<=max; num++){
+            while(map.getOrDefault(num, 0)>0){
+                nums[i] = num;
+                i++;
+                map.put(num, map.get(num)-1);
             }
         }
-
-        while (p1 < n1) {
-            array[writeInd++] = leftPart[p1++];
-        }
-
-        while (p2 < n2) {
-            array[writeInd++] = rightPart[p2++];
-        }
+        return nums;
     }
 }
